@@ -7,7 +7,7 @@ Put this import link into the top of your css style sheet:
 
 ```@import url('https://cdn.jsdelivr.net/gh/Shwizie/Fonts@main/Metropolis/Metropolis.css');```
 
-and use the font as you usually would with an imported font.
+and use as you usually would with an imported font.
 
 ```
 font-family: 'Metropolis', sans-serif;

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Metropolis';
+    font-weight: 100;
+    src: url(WOFF2/metropolis-thin.woff2) format('woff2'),
+            url(WOFF/metropolis-thin.woff) format('woff'),
+            url(OTF/metropolis-thin.otf) format('otf');
+  }
+  
+  @font-face {
+    font-family: 'Metropolis';
+    font-weight: 100;
+    font-style: italic;
+    src: url(WOFF2/metropolis-thinitalic.woff2) format('woff2'),
+            url(WOFF/metropolis-thinitalic.woff) format('woff'),
+            url(OTF/metropolis-thinitalic.otf) format('otf');
+  }

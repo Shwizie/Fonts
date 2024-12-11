@@ -5,7 +5,7 @@ Hosting the Metropolis Font.
 
 Put this import link into the top of your css style sheet:
 
-@import url('https://cdn.jsdelivr.net/gh/Shwizie/Fonts@main/Metropolis/Metropolis.css');
+```@import url('https://cdn.jsdelivr.net/gh/Shwizie/Fonts@main/Metropolis/Metropolis.css');```
 
 and use the font as you usually would with an imported font.
 

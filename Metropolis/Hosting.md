@@ -1,6 +1,3 @@
-# Metropolis Font Hosting
-Hosting the Metropolis Font.
-
 ## How to use..
 
 Put this import link into the top of your css style sheet:

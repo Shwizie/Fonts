@@ -2,7 +2,7 @@
 
 Put this import link into the top of your css style sheet:
 
-```@import url('https://cdn.jsdelivr.net/gh/Shwizie/Fonts@main/Metropolis/Metropolis.css');```
+```@import url('https://cdn.jsdelivr.net/gh/Shwizie/Fonts@latest/Metropolis/Metropolis.css');```
 
 and use as you usually would with an imported font.
 
